@@ -459,12 +459,4 @@
     background-color: #1B1B1B;
 }
 
-/* media queries */
 
-@media (max-width:768px) {
-    .bio_pic img {width: 80%;}
-    .navbar {width: 80%;}
-    .bio {width: 80%;}
-    .navbar li {width: 40%;}
-    .navbar_socials {width: 40%;}
-}
